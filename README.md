@@ -1,0 +1,2 @@
+# pingercode
+MAKE SURE TO SAVE THIS AS A .bat FILE USING NOTEPAD++
